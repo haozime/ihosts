@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "commonjs",
+    "lib": ["esnext"],
+    "types": ["node"],
+    "noImplicitAny": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "charset": "utf8",
+    "allowJs": false,
+    "pretty": true,
+    "noEmitOnError": false,
+    "noUnusedParameters": true,
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "noFallthroughCasesInSwitch": true,
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "inlineSourceMap": true,
+    "importHelpers": true,
+    "strict": false
+  },
+  "exclude": ["node_modules"]
+}
